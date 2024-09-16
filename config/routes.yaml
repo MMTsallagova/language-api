@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\ApiController::index
+#
+#api:
+#    path: /api
+#    controller: App\Controller\ApiController::example
